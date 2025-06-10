@@ -32,7 +32,7 @@
 ## 📫 Get in touch
 
 - 📧 Email: `felix.machan@gmail.com`
-- 💼 LinkedIn: `[felix-machan-3186a3268](https://www.linkedin.com/in/felix-machan-3186a3268/)`
+- 💼 LinkedIn: [felix-machan-3186a3268](https://www.linkedin.com/in/felix-machan-3186a3268/)
 
 ---
 
